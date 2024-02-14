@@ -8,4 +8,11 @@ This small task implements google social sign-in functionality using Node.js and
 
 * Security Best Practices: Followed security best practices using Helmet.js to enhance the overall security posture of the application by setting HTTP headers and protecting against common web vulnerabilities.
 
-* Cookie-Based Authentication: Utilized the cookie-session module to directly sign in using the session info in the browser and secure it by signing it using private keys preventing the tampering 
+* Cookie-Based Authentication: Utilized the cookie-session module to directly sign in using the session info in the browser and secure it by signing it using private keys preventing the tampering
+
+
+## OAuth2 Flow :
+
+![image](https://github.com/Rivo11-11/Social-Sign-/assets/70471535/c20e7e10-965e-47de-9b4d-f32e01e548c8)
+
+
